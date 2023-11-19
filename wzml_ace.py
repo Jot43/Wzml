@@ -3,10 +3,10 @@ class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = '🛠️ Updates'
-    ST_BN1_URL = 'https://telegram.me/ACE_ML'
-    ST_BN2_NAME = '😘 Use Me'
-    ST_BN2_URL = 'https://telegram.me/ACE_Mirror_Leech'
-    ST_MSG = '''<b>✨ 𝗔𝗖𝗘 ➔ Mirror & Leech</b>\n\nℹ️ I Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n'''
+    ST_BN1_URL = 'https://telegram.me/MoviesReborn'
+    ST_BN2_NAME = '😘 DM Me'
+    ST_BN2_URL = 'https://telegram.me/i_manjot_sidhu'
+    ST_MSG = '''<b>✨ M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴ ➔ Mirror & Leech</b>\n\nℹ️ I Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n'''
     ST_BOTPM = '''<b>🕵️ Bot PM Initiated Successfully!\n\nℹ️ I will send all your files and links here.</b>'''
     ST_UNAUTH = '''<b>⚠️ Access Denied!</b>'''
     # ---------------------
@@ -30,7 +30,7 @@ class WZMLStyle:
 ┠<b>Total Disk Write :</b> {disk_write}
 ┗<b>U :</b> {disk_u} | <b>F :</b> {disk_f} | <b>T :</b> {disk_t}
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>
     
     '''
     SYS_STATS = '''<b>🛠 <u>𝙎𝙮𝙨𝙩𝙚𝙢 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨</u></b>
@@ -54,7 +54,7 @@ class WZMLStyle:
 ┠<b>Pkts Received:</b> {pkt_recv}k
 ┗<b>Total I/O Data:</b> {tl_data}
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>
     '''
     REPO_STATS = '''<b>🧑‍💻 <u>𝙍𝙚𝙥𝙤 𝙎𝙩𝙖𝙩𝙞𝙨𝙩𝙞𝙘𝙨</u></b>
     
@@ -65,7 +65,7 @@ class WZMLStyle:
 
 <b>💥 REMARKS :</b> <code>{remarks}</code>
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>
     '''
     BOT_LIMITS = '''<b>❗<u>𝘽𝙤𝙩 𝙇𝙞𝙢𝙞𝙩𝙨</u></b>
     
@@ -83,7 +83,7 @@ class WZMLStyle:
 ┠<b>👤 User Tasks :</b> {UT}
 ┗<b>🚧 Total Tasks :</b> {BT}
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>
     '''
     # ---------------------
 
@@ -99,7 +99,7 @@ class WZMLStyle:
 ┠<b>🌍 TimeZone:</b> {timz}
 ┗<b>🆔 Version:</b> {version}
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>'''
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>'''
     RESTARTED = '''<b>🔄 Bot Restarted!</b>'''
     # ---------------------
 
@@ -231,7 +231,7 @@ class WZMLStyle:
     # ---------------------
 
     # async def mirror_status(_, message): ----> status.py
-    NO_ACTIVE_DL = '''<b>💩 No Active Tasks!</b>
+    NO_ACTIVE_DL = '''<b>😑 No Active Tasks!</b>
     
 ⌬ <b><u>Bot Stats</u></b>
 ┏<b>🖥️ CPU:</b> <code>{cpu}%</code> | <b>💿 RAM:</b> <code>{ram}%</code>
@@ -248,7 +248,7 @@ class WZMLStyle:
 ┠<b>🔮 DC :</b> <code>{DC}</code>
 ┗<b>🗣️ Language :</b> <code>{LANG}</code>
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>'''
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>'''
 
     UNIVERSAL = '''㊂ <b><u>Universal</u></b>
 
@@ -259,7 +259,7 @@ class WZMLStyle:
 ┠<b>🕵️ Bot PM :</b> <code>{BOT_PM}</code>
 ┗<b>📩 Save Mode :</b> <code>{SAVE_MODE}</code>
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>'''
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>'''
 
     MIRROR = '''㊂ <b><u>Mirror/Clone</u></b>
 
@@ -272,7 +272,7 @@ class WZMLStyle:
 ┠<b>📮 User TD :</b> <code>{TMODE}</code>
 ┗<b>📝 TD Info:</b> <code>{USERTD}</code>
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>'''
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>'''
 
     LEECH = '''㊂ <b><u>Leech Settings</u></b>
 
@@ -288,4 +288,4 @@ class WZMLStyle:
 ┠<b>📦 Dump :</b> <code>{LDUMP}</code>
 ┗<b>🌈 Remname :</b> <code>{LREMNAME}</code>
 
-<a href="https://t.me/ACE_ML"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @𝗔𝗖𝗘_𝗠𝗟</b></a>'''
+<a href="https://t.me/MoviesReborn"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴</b></a>'''
