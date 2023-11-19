@@ -4,7 +4,7 @@ class WZMLStyle:
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = '🛠️ Updates'
     ST_BN1_URL = 'https://telegram.me/MoviesReborn'
-    ST_BN2_NAME = '😘 DM Me'
+    ST_BN2_NAME = '😘 Owner'
     ST_BN2_URL = 'https://telegram.me/i_manjot_sidhu'
     ST_MSG = '''<b>✨ M̴o̴v̴i̴e̴s̴R̴e̴b̴o̴r̴n̴ ➔ Mirror & Leech</b>\n\nℹ️ I Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n'''
     ST_BOTPM = '''<b>🕵️ Bot PM Initiated Successfully!\n\nℹ️ I will send all your files and links here.</b>'''
@@ -104,8 +104,8 @@ class WZMLStyle:
     # ---------------------
 
     # async def ping(client, message): ---> __main__.py
-    PING = '<b>🙄 Starting Ping...</b>'
-    PING_VALUE = '<b>🏓 Pong:</b> <code>{value}ms</code>'
+    PING = '<b>😮‍💨 Starting Ping...</b>'
+    PING_VALUE = '<b>😑 Pong:</b> <code>{value}ms</code>'
     # ---------------------
 
     # async def onDownloadStart(self): --> tasks_listener.py
