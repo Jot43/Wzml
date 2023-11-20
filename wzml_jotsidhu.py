@@ -3,7 +3,7 @@ class WZMLStyle:
     # ----------------------
     # async def start(client, message) ---> __main__.py
     ST_BN1_NAME = '🛠️ Updates ₦ØⱤĐ ฿Ø₮Ⱬ'
-    ST_BN1_URL = '₦ØⱤĐ ฿Ø₮Ⱬ'
+    ST_BN1_URL = 'https://t.me/NordBotz'
     ST_BN2_NAME = '😘 Owner'
     ST_BN2_URL = 'https://t.me/NordBotz'
     ST_MSG = '''<b>✨ ₦ØⱤĐ ฿Ø₮Ⱬ ➔ Mirror & Leech</b>\n\nℹ️ I Can Upload Files, Links, Torrents, etc. to Telegram, Google Drive, DDL Servers and Rclone Supported Sites!\n\n'''
