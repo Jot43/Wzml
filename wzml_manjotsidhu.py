@@ -111,7 +111,8 @@ class WZMLStyle:
     # ---------------------
 
     # async def onDownloadStart(self): --> tasks_listener.py
-    LINKS_START = """<b>🚧 Task Started</b>
+    LINKS_START = <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
+    """<b>🚧 Task Started</b>
 
 ┏<b>💠 Mode:</b> {Mode}
 ┗<b>👤 User:</b> {Tag}\n\n"""
@@ -126,12 +127,14 @@ class WZMLStyle:
     L_LOG_START =           "🏁 <b><u>Leech Started</u> :</b>\n\n┏<b>👤 User :</b> {mention}\n┠<b>🆔 ID :</b> <code>{uid}</code>\n┗<b>💡 Source :</b> <a href='{msg_link}'>Click Here</a>"
 
     # async def onUploadComplete(): ---> tasks_listener.py
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     NAME =                  '┏<b>🏷️ Name:</b> <code>{Name}</code>\n'
     SIZE =                  '┠<b>💾 Size: </b>{Size}\n'
     ELAPSE =                '┠<b>⌛ Elapsed: </b>{Time}\n'
     MODE =                  '┠<b>💠 Mode: </b>{Mode}\n'
 
     # ----- LEECH -------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     L_TOTAL_FILES =         '┠<b>📂 Total Files: </b>{Files}\n'
     L_CORRUPTED_FILES =     '┠<b>💀 Corrupted Files: </b>{Corrupt}\n'
     L_CC =                  '┗<b>👤 User: </b>{Tag}\n\n'
@@ -140,6 +143,7 @@ class WZMLStyle:
     L_LL_MSG =              'ℹ️ <b><i>Files have been Sent. Access via Links!</i></b>'
     
     # ----- MIRROR -------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     M_TYPE =                '┠<b>📜 Type: </b>{Mimetype}\n'
     M_SUBFOLD =             '┠<b>🗂️ SubFolders: </b>{Folder}\n'
     TOTAL_FILES =           '┠<b>📂 Files: </b>{Files}\n'
@@ -148,6 +152,7 @@ class WZMLStyle:
     M_BOT_MSG =             '🏁 <b><i>Links have been Sent in DM!</i></b>'
     
     # ----- BUTTONS -------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     CLOUD_LINK =      '☁️ Cloud Link'
     SAVE_MSG =        '📩 Save'
     RCLONE_LINK =     '®️ RClone Link'
@@ -165,7 +170,8 @@ class WZMLStyle:
     ####--------OVERALL MSG HEADER----------
     STATUS_NAME =       '┏<b>🏷️ Name:</b> <code>{Name}</code>'
 
-    #####---------PROGRESSIVE STATUS-------
+    #####---------PROGRESSIVE STATUS------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     BAR =               '\n┠{Bar}'
     PROCESSED =         '\n┠<b>🔄 Process:</b> <code>{Processed}</code>'
     STATUS =            '\n┠<b>✨ Status:</b> <a href="{Url}">{Status}</a>'
@@ -178,6 +184,7 @@ class WZMLStyle:
     LEECHERS =                                           '<b>🪢:</b> <code>{Leechers}</code>'
 
     ####--------SEEDING----------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     SEED_SIZE =      '\n┠<b>💾 Size:</b> <code>{Size}</code>'
     SEED_SPEED =     '\n┠<b>📶 Speed:</b> <code>{Speed}</code> | '
     UPLOADED =                                     '<b>Uploaded:</b> <code>{Upload}</code>'
@@ -186,16 +193,19 @@ class WZMLStyle:
     SEED_ENGINE =    '\n┠<b>⚙️ Engine:</b> <code>{Engine}</code>'
 
     ####--------NON-PROGRESSIVE + NON SEEDING----------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     STATUS_SIZE =    '\n┠<b>💾 Size:</b> <code>{Size}</code>'
     NON_ENGINE =     '\n┠<b>⚙️ Engine:</b> <code>{Engine}</code>'
 
     ####--------OVERALL MSG FOOTER----------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     USER =              '\n┠<b>👤 User:</b> <code>{User}</code>'
     ID =                                                        '\n┠<b>🆔 ID:</b> <code>{Id}</code>'
     BTSEL =          '\n┠<b>✂️ Select:</b> {Btsel}'
     CANCEL =         '\n┗<b>🚫 Stop:</b> {Cancel}\n\n'
 
     ####------FOOTER--------
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     FOOTER = '⌬ <b><u>Bot Stats</u></b>\n'
     TASKS =  '┏<b>🚧 Tasks:</b> {Tasks}\n'
     BOT_TASKS = '┏<b>🚧 Tasks:</b> <code>{Tasks}/{Ttask}</code> | <b>👷 Available:</b> <code>{Free}</code>\n'
@@ -233,9 +243,11 @@ class WZMLStyle:
     # ---------------------
 
     # async def mirror_status(_, message): ----> status.py
+    <a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
     NO_ACTIVE_DL = '''<b>😑 No Active Tasks!</b>
     
 ⌬ <b><u>Bot Stats</u></b>
+<a href="https://t.me/NordBotz"><b>♥️ 𝗣𝗼𝘄𝗲𝗿𝗲𝗱 𝗕𝘆 @₦ØⱤĐ ฿Ø₮Ⱬ</b></a>'''
 ┏<b>🖥️ CPU:</b> <code>{cpu}%</code> | <b>💿 RAM:</b> <code>{ram}%</code>
 ┗<b>📭 Free:</b> <code>{free}</code> | <b>⏰ Uptime:</b> <code>{uptime}</code>
     '''
